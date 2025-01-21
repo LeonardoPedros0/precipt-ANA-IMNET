@@ -16,8 +16,7 @@ As bibliotecas necessárias podem ser instaladas com os comandos abaixo:
 pip install hydrobr
 pip install seaborn
 pip install plotly
-
-
+```
 
 📚 Bibliotecas Utilizadas
 hydrobr: Biblioteca para acessar e processar dados hidrológicos no Brasil.
